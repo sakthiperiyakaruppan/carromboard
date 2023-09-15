@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(249, 248, 248);
+}
+#carrom-frame{
+    background-color: black;
+    border: 1px;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+#carrombrownframe{
+    background-color: #FFE8D1;
+    border: 1px;
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 25px;
+    
+}
+#pocket1 {
+    position: absolute;
+    background-color: #2A4486;
+    height: 45px;
+    width: 45px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 25px;
+
+}
+#pocket2{
+    position: absolute;
+    background-color: #2A4486;
+    height: 45px;
+    width: 45px;
+    margin-left: 420px;
+    margin-top: 30px;
+    border-radius: 25px;
+
+}
+#pocket3{
+    position: absolute;
+    background-color: #2A4486;
+    height: 45px;
+    width: 45px;
+    margin-left: 420px;
+    margin-top: 420px;
+    border-radius: 25px;
+
+}
+#pocket4{
+    position: absolute;
+    background-color: #2A4486;
+    height: 45px;
+    width: 45px;
+    margin-left: 30px;
+    margin-top: 420px;
+    border-radius: 25px;
+
+}
+
+#rectangle1{
+    border: 1px;
+    position: absolute;
+    background-color: #0B0507;
+    height: 30px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 90px;
+    border-radius: 50px;
+}
+#rectangle2{
+    border: 1px;
+    position: absolute;
+    background-color: #0B0507;
+    height: 30px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 370px;
+    border-radius: 50px;
+}
+#rectangle3{
+    border: 1px;
+    position: absolute;
+    background-color: #0B0507;
+    height: 250px;
+    width: 30px;
+    margin-left: 70px;
+    margin-top: 120px;
+    border-radius: 50px;
+}  
+#rectangle4{
+    border: 1px;
+    position: absolute;
+    background-color: #0B0507;
+    height: 250px;
+    width: 30px;
+    margin-left: 400px;
+    margin-top: 120px;
+    border-radius: 50px;
+}
+
+#arrows img{
+    position: absolute;
+    margin-left: 75px;
+    margin-top: 75px;
+    height: 350px;
+    width: 350;
+}
+
+}
